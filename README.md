@@ -6,6 +6,3 @@
 
 - 🌱 I'm also curious about the design. That's why I'm learning figma
 
-
-- 💞️ I’m looking to collaborate on ...
-
